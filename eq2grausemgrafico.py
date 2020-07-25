@@ -1,10 +1,5 @@
-# Código alterado por: Sarah Sophia Pinto
-# Universidade Federal do Maranhão-UFMA
-# Curso: BICT   2°período     Turma: 23456M123
-
-# Avaliação 2
 # Aprimoramento de código: Interfaces gráficas
-
+#Sophia Pinto
 # Importações de bibliotecas
 
 import numpy as np
